@@ -117,9 +117,6 @@ h1 {
     margin: 1.5%;
     max-width: 45%;
 }
-.wrapper>img:hover{
-    max-width: 100%;
-}
 .wrapper>p {
     max-width: 45%;
     text-align: left;
